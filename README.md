@@ -164,5 +164,5 @@ In this **2-hour guided project**, you’ll build an **end-to-end observability 
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/7day-observability.git
+git clone https://https://github.com/debjoti-chandra/observability-zero-to-hero
 cd 7day-observability
